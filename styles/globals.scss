@@ -2,7 +2,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   background: #eee;
 }
 
@@ -42,8 +42,8 @@ button {
   border: none;
   background: #6300B3;
   border: 1px solid #6300B3;
-  color: #fff;
-  font-family: "Poppins", sans-serif;
+  color:#fff;
+  font-family: 'Poppins', sans-serif;
   font-weight: 300;
   text-transform: uppercase;
   border-radius: 5px;
@@ -51,8 +51,9 @@ button {
   transition: background 0.2s ease, color 0.2s ease;
   cursor: pointer;
   letter-spacing: 0.5px;
+
+  &:hover {
+    background: transparent;
+    color: #6300B3;
+  }
 }
-button:hover {
-  background: transparent;
-  color: #6300B3;
-}/*# sourceMappingURL=globals.css.map */
