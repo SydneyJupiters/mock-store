@@ -7,8 +7,6 @@ SCSS, React (Next.Js), GraphQL, Node.js, FontAwesome
 ### Demo:
 https://mock-store-delta.vercel.app/
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
 ### Overview:
 
 Simple product page and mini using Mock Shop API. You should be able to add products to the cart as well as view it, update the number of items in the cart and with the context provider you will be able to view it across multiple pages if they were to be added.
