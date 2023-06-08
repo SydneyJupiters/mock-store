@@ -4,13 +4,8 @@
 ### Technologies used:
 SCSS, React (Next.Js), GraphQL, Node.js, FontAwesome
 
-### Setup:
-
-```bash
-cd /mock-store
-npm install
-npm run dev
-```
+### Demo:
+https://mock-store-delta.vercel.app/
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
